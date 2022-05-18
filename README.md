@@ -18,3 +18,4 @@ Los datos se separaron en un 70 % para el entrenamiento y 30 % para el test. Deb
 
 # Resultados y valoración
 
+El modelo obtiene un 89% de media ponderada en las métricas de precision, recall y f1-score, si se analizan por categorias los insectos de la categoria 2 obtienen unos resultados inferiores al resto, seguramente debido al desbalanceo. Pero en general el modelo proporciona unos buenos resultados de media. Seguramente depurando mejor los datos y intentando balancearlos mejor, se obtendrian mejores resultados.
